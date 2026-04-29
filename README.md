@@ -4,13 +4,13 @@
 <!--        BANNER: Upload your image to GitHub, then             -->
 <!--        replace the src URL below and uncomment the line      -->
 <!-- ============================================================ -->
-<!-- <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Fahid Hasan Banner"/> -->
+ <img src="[YOUR_BANNER_IMAGE_URL_HERE](https://github.com/fahid2002/fahid2002/blob/main/fahid_linkedin_banner_v4_1.png)" width="100%" alt="Fahid Hasan Banner"/>
 
 <br/>
 
 # 👋 Hi, I'm Fahid Hasan
 
-### Frontend Developer · ML Enthusiast · CSE Student @ DIU
+### Frontend Developer
 
 <br/>
 
@@ -20,7 +20,9 @@
 
 ## 💫 About Me
 
-Hi there! I'm **Fahid Hasan**, a passionate **Computer Science & Engineering** undergraduate at **Daffodil International University**, Dhaka, Bangladesh. I love crafting clean, modern frontend experiences and diving deep into machine learning research. Whether it's building intuitive web apps, designing pixel-perfect UIs in Figma, or training ML models — I'm always building something meaningful.
+Hi! I'm **Fahid Hasan**, currently in my 4rd year pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka. I have a genuine passion for building modern, visually appealing web experiences using **React** and **Next.js**. 
+Outside of coding, I love spending time in **Figma** — designing landing pages, UI/UX layouts, and posters that are both clean and creative. 
+My technical foundation is built on **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming (OOP) System Design, and **MySQL**, which keeps my problem-solving sharp. I enjoy turning real-world ideas into functional, well-designed applications that actually mean something.
 
 ---
 
@@ -28,8 +30,6 @@ Hi there! I'm **Fahid Hasan**, a passionate **Computer Science & Engineering** u
 
 - 🌐 Building **DigiTools** — a digital marketplace with React + Tailwind CSS, deployed on Netlify
 - 📱 Developing **KeenKeeper** — a Next.js friendship management web app
-- 🤖 Working on an **Emotion Classification ML** dataset project targeting 2,000+ Bengali sentences for a research paper
-- 🧠 Advancing my **Final Year Design Project** — Explainable ML Framework for Early Hemorrhagic Stroke Prediction using LightGBM + SHAP
 - 📖 Exploring **Next.js** App Router, server components & full-stack patterns
 
 ---
