@@ -4,7 +4,7 @@
 <!--        BANNER: Upload your image to GitHub, then             -->
 <!--        replace the src URL below and uncomment the line      -->
 <!-- ============================================================ -->
- <img src="https://raw.githubusercontent.com/fahid2002/fahid2002/main/fahid_linkedin_banner_v4_1.png" width="100%" alt="Fahid Hasan Banner"/> width="100%" alt="Fahid Hasan Banner"/>
+ <img src="https://raw.githubusercontent.com/fahid2002/fahid2002/main/fahid_linkedin_banner_v4_1.png" width="100%" alt="Fahid Hasan Banner"/>
 
 <br/>
 
