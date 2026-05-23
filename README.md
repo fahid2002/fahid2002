@@ -6,7 +6,7 @@
 
 # Fahid Hasan
 
-### Frontend Developer
+### MERN Stack Developer
 
 <br/>
 
