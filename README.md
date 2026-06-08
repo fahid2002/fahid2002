@@ -1,14 +1,18 @@
 <div align="center">
 
- <img src="https://raw.githubusercontent.com/fahid2002/fahid2002/main/fahid_linkedin_banner_v4_1.png" width="100%" alt="Fahid Hasan Banner"/>
+  <img src="https://raw.githubusercontent.com/fahid2002/fahid2002/main/fahid_linkedin_banner_v4_1.png" width="100%" alt="Fahid Hasan Banner"/>
 
-<br/>
+  <br/>
 
-# Fahid Hasan
+  # Fahid Hasan
 
-### MERN Stack Developer
+  ### MERN Stack Developer | React & Next.js Enthusiast
 
-<br/>
+  <br/>
+
+  <p>
+    I build modern, responsive, and user-focused web applications using React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
+  </p>
 
 </div>
 
@@ -16,17 +20,24 @@
 
 ## 💫 About Me
 
-Hi! I'm **Fahid Hasan**, currently in my 4th year pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka. I have a genuine passion for building modern, visually appealing web experiences using **React** and **Next.js**.  
-Outside of coding, I love spending time in **Figma** — designing landing pages, UI/UX layouts, and posters that are both clean and creative.  
-My technical foundation is built on **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design, and MySQL**, which keeps my problem-solving sharp. I enjoy turning real-world ideas into functional, well-designed applications that actually mean something.
+Hi! I'm **Fahid Hasan**, currently in my **4th year** pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka.
+
+I am passionate about building modern, responsive, and meaningful web applications using **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**. I enjoy turning real-world ideas into clean, functional, and user-friendly digital products.
+
+Alongside development, I also enjoy working with **Figma**, where I design landing pages, UI/UX layouts, and creative posters. My technical foundation includes **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming, System Design, and MySQL**, which helps me improve my problem-solving and software development skills.
+
+Currently, I am **looking for remote web development opportunities**, learning more about **full-stack development**, and working on a **personal expense tracking website** where users can save daily expenses and track their spending.
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🌐 Building **DigiTools** — a digital marketplace with React + Tailwind CSS, deployed on Netlify
-- 📱 Developing **KeenKeeper** — a Next.js friendship management web app
-- 📖 Exploring **Next.js** App Router, server components & full-stack patterns
+- 💼 Looking for **remote Junior Web Developer / MERN Stack Developer** opportunities
+- 🌱 Learning advanced **full-stack development** with Next.js, Node.js, Express.js, and MongoDB
+- 💰 Building a **Personal Expense Tracker** to save daily expenses and monitor spending
+- 🎨 Improving my UI/UX design skills with Figma
+- ✅ Completed **DigiTools** — a digital marketplace using React and Tailwind CSS
+- ✅ Completed **KeenKeeper** — a Next.js friendship management web application
 
 ---
 
@@ -44,12 +55,94 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://netlify.com/)
+[![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com/)
 
 </div>
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 DocAppoint — Book Top Doctors in Bangladesh
+
+**Live Site:** [doc-appoint-client-side.vercel.app](https://doc-appoint-client-side.vercel.app)
+
+DocAppoint is a full-stack doctor appointment booking platform built for patients in Bangladesh. It allows users to browse BMDC-verified specialist doctors, book appointments instantly, manage schedules, and leave patient reviews through a fast, secure, and mobile-friendly interface.
+
+**Key Features**
+
+- Browse and search BMDC-verified specialist doctors
+- Filter doctors by category, availability, and location
+- Instant appointment booking with appointment management
+- Secure authentication using Better Auth, Google OAuth, JWT, and HttpOnly cookies
+- Verified patient reviews with star ratings and written feedback
+- Live review carousel using Swiper.js
+- Fully responsive mobile, tablet, and desktop UI
+- Dark and light mode support
+- Appointment confirmation emails using EmailJS
+
+**Tech Stack:**  
+`Next.js 15` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB Atlas` `Mongoose` `Better Auth` `JWT` `Axios` `Swiper.js` `EmailJS` `Vercel` `Render`
+
+---
+
+### 🏛️ TileHaus — Premium Tile Gallery
+
+**Live Site:** [tile-haus.vercel.app](https://tile-haus.vercel.app)
+
+TileHaus is a full-stack web application designed to showcase premium ceramic, marble, and mosaic tiles for architects, designers, and homeowners. It works as a curated digital gallery with secure authentication, user profile management, and dynamic database-driven tile collections.
+
+**Key Features**
+
+- Secure authentication with Email/Password and Google OAuth
+- User profile management with display name and avatar update
+- Dynamic tile collection rendering from MongoDB Atlas
+- Protected routes using Next.js middleware/proxy
+- Modern UI with custom CSS variables and elegant typography
+- Interactive marquees, carousels, and responsive layouts
+- Toast notifications for authentication and profile actions
+
+**Tech Stack:**  
+`Next.js 16` `React` `JavaScript` `MongoDB` `Better Auth` `HeroUI` `React Hot Toast` `Swiper` `CSS Variables` `Vercel`
+
+---
+
+### 🎓 DIU CGPA Calculator
+
+**Live Site:** [cgpa-calculator-diu-alpha.vercel.app](https://cgpa-calculator-diu-alpha.vercel.app)
+
+DIU CGPA Calculator is a modern and fast Next.js web application built for Daffodil International University students to calculate Semester GPA, CGPA, and individual course grades. It provides an easy-to-use interface for academic grade tracking with DIU-specific grading rules.
+
+**Key Features**
+
+- Semester GPA calculator with multiple semester support
+- Dual input modes: raw marks or letter grades
+- Assessment breakdown calculator for attendance, CT, assignment, presentation, midterm, and final marks
+- Average CGPA calculator using weighted credit-hour formula
+- Collapsible DIU grading scale for quick reference
+- Fully responsive design for mobile and desktop
+- Clean dark theme with high-contrast UI
+
+**Tech Stack:**  
+`Next.js 14` `React 18` `Tailwind CSS` `Vanilla CSS` `JavaScript` `Vercel`
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -64,18 +157,6 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahidhasanifty20@gmail.com)
 
 </div>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <strong>More GitHub stats will be added when the stats services become available again.</strong>
-</p>
 
 ---
 
