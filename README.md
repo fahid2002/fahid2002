@@ -67,23 +67,14 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahid2002&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahid2002&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top Languages" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahid2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <strong>More GitHub stats will be added when the stats services become available again.</strong>
 </p>
 
 ---
