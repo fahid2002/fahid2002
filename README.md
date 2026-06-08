@@ -17,7 +17,7 @@
 ## 💫 About Me
 
 Hi! I'm **Fahid Hasan**, currently in my 4rd year pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka. I have a genuine passion for building modern, visually appealing web experiences using **React** and **Next.js**. 
-Outside of coding, I love spending time in **Figma** — designing landing pages, UI/UX layouts, and posters that are both clean and creative. 
+Outside of coding, I love spending time in **Figma** - designing landing pages, UI/UX layouts, and posters that are both clean and creative. 
 My technical foundation is built on **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming (OOP) System Design, and **MySQL**, which keeps my problem-solving sharp. I enjoy turning real-world ideas into functional, well-designed applications that actually mean something.
 
 ---
