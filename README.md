@@ -16,9 +16,9 @@
 
 ## 💫 About Me
 
-Hi! I'm **Fahid Hasan**, currently in my 4rd year pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka. I have a genuine passion for building modern, visually appealing web experiences using **React** and **Next.js**. 
-Outside of coding, I love spending time in **Figma** - designing landing pages, UI/UX layouts, and posters that are both clean and creative. 
-My technical foundation is built on **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming (OOP) System Design, and **MySQL**, which keeps my problem-solving sharp. I enjoy turning real-world ideas into functional, well-designed applications that actually mean something.
+Hi! I'm **Fahid Hasan**, currently in my 4th year pursuing **Computer Science & Engineering** at **Daffodil International University**, Dhaka. I have a genuine passion for building modern, visually appealing web experiences using **React** and **Next.js**.  
+Outside of coding, I love spending time in **Figma** — designing landing pages, UI/UX layouts, and posters that are both clean and creative.  
+My technical foundation is built on **C, C++, Java, Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design, and MySQL**, which keeps my problem-solving sharp. I enjoy turning real-world ideas into functional, well-designed applications that actually mean something.
 
 ---
 
@@ -70,12 +70,12 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahid2002&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahid2002&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahid2002&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahid2002&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,9 +88,8 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 
 ---
 
-## 🔝 Top Contributed Repositories
+<div align="center">
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fahid2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+### Thanks for visiting my profile! ⭐
+
 </div>
