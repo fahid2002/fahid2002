@@ -6,7 +6,7 @@
 
   # Fahid Hasan
 
-  ### MERN Stack Developer | React & Next.js Enthusiast
+  ### MERN Stack Developer
 
   <br/>
 
@@ -36,8 +36,6 @@ Currently, I am **looking for remote web development opportunities**, learning m
 - 🌱 Learning advanced **full-stack development** with Next.js, Node.js, Express.js, and MongoDB
 - 💰 Building a **Personal Expense Tracker** to save daily expenses and monitor spending
 - 🎨 Improving my UI/UX design skills with Figma
-- ✅ Completed **DigiTools** — a digital marketplace using React and Tailwind CSS
-- ✅ Completed **KeenKeeper** — a Next.js friendship management web application
 
 ---
 
