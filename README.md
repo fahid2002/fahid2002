@@ -83,7 +83,7 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahid2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahid2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -91,14 +91,6 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fahid2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=fahid2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:6EE7F7&height=120&section=footer" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=fahid2002&label=Profile%20Views&color=3b82f6&style=flat" alt="profile views" />
-
 </div>
