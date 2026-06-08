@@ -69,39 +69,30 @@ My technical foundation is built on **C, C++, Java, Data Structures & Algorithms
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahid2002&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahid2002&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahid2002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahid2002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=fahid2002&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fahid2002&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fahid2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahid2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-<div align="center">
-
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=fahid2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/fahid2002)
-
-</div>
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fahid2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 ---
 
 <div align="center">
