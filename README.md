@@ -352,12 +352,6 @@ A personal finance web project for saving daily expenses and tracking spending h
 <a href="https://www.linkedin.com/in/fahid-hasan-280425382">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/share/1Gvowhz349/">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/fahidhasankhanifty/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://wa.me/8801749573951">
   <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
